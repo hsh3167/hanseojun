@@ -1,0 +1,12 @@
+.main_bg{
+    max-width: 100%; height: auto; 
+    background-size: contain;  
+    background-repeat: no-repeat; 
+    background-position: center top;
+
+    z-index: 1;
+}
+.main_sub_bg{
+
+    padding-top:50%
+}
